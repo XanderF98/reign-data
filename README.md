@@ -22,5 +22,5 @@ This project analyzes Seattle Reign FC’s performance in the NWSL from 2016–2
 
 ## How to View
 - Interactive dashboard:  
-  [View on GitHub Pages]([https://XanderF98.github.io/reign-data.github.io/reign-data/reign_points_goals_dashboard.html](https://XanderF98.github.io/reign-data/reign_points_goals_dashboard.html) 
+  [View on GitHub Pages]([https://xanderf98.github.io/reign-data/reign_points_goals_dashboard.html) 
   width="100%" height="1200" frameborder="0
